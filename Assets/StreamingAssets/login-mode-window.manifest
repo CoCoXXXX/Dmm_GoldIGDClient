@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1711466410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42ca8d56954daa4c77bf9ffb2b6be0ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c88cd5a8cd3b2d64cc169e0e3b0f951f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64697c948c844edab488bfc402580f89, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/LoginModeWindow/Img/\u7248\u672C\u53F7\u5E95\u6846.png"
+- "Assets/GameAssets/LoginModeWindow/Img/button_\u6E38\u5BA2\u767B\u5F55.png"
+- "Assets/GameAssets/LoginModeWindow/Img/button_\u5FAE\u4FE1\u767B\u5F55.png"
+- "Assets/GameAssets/LoginModeWindow/Img/button_\u516C\u544A.png"
+- Assets/GameAssets/LoginModeWindow/Prefab/LoginModeWindow.prefab
+- "Assets/GameAssets/LoginModeWindow/Img/button_\u8D26\u53F7\u767B\u5F55.png"
+- "Assets/GameAssets/LoginModeWindow/Img/\u767B\u5F55\u80CC\u666F.png"
+- "Assets/GameAssets/LoginModeWindow/Img/button_\u5355\u673A\u6A21\u5F0F.png"
+- "Assets/GameAssets/LoginModeWindow/Img/\u7231\u63BC\u86CB\u5F62\u8C61.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font

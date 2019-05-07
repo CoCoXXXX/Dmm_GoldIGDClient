@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 3452628551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9071972646fefa88d1a9e3ff3c475c1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc2b0b2e832b9e59a4de251a30cd8088
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d49846d33a65fec449a27ff642ad73f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bbf7e4794f0bd74480415725ba2aec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4adfecfa78e5644ba1f44becb3492b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/OtherInfoDialog/Img/button-\u52A0\u597D\u53CB.png"
+- "Assets/GameAssets/OtherInfoDialog/Img/button-\u4E22\u9E21\u86CB.png"
+- Assets/GameAssets/OtherInfoDialog/Prefab/OtherInfoPanel.prefab
+- "Assets/GameAssets/OtherInfoDialog/Img/button-\u9001\u9C9C\u82B1.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/vip
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/currency

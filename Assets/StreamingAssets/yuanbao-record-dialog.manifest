@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 81819752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49f4dd5bcbeb4285fb872d24cf719552
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 453a5b596608eabf96076b344865de93
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1c248bb64cc8f4409c4765fcecc7acc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a50f8c2d484f701448202dd0abbb0db8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/YuanBaoRecordDialog/Img/\u5151\u6362\u7801\u5E95\u677F.png"
+- Assets/GameAssets/YuanBaoRecordDialog/Img/yuanbao_detail_btn.png
+- Assets/GameAssets/YuanBaoRecordDialog/Prefab/YuanBaoRecordDialog.prefab
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font

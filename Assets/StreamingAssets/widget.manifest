@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2394142574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75bf8c8f9a8ee158fea5e26c6efef512
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 119670125b77f6388225901cd1a46fca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/Widget/Img/tag_\u7EA2\u70B9.png"
+- Assets/GameAssets/Widget/Img/colorbtn-Yellow.png
+- "Assets/GameAssets/Widget/Img/\u767B\u5F55\u754C\u9762\u5E95\u90E8\u5BFC\u822A\u6761.png"
+- "Assets/GameAssets/Widget/Img/\u6587\u5B57\u5E95\u90E8\u6A2A\u6761.png"
+- "Assets/GameAssets/Widget/Img/\u6E38\u6EDA.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u63D0\u793A\u9762\u677F.png"
+- "Assets/GameAssets/Widget/Img/button_\u83B7\u53D6\u5143\u5B9D.png"
+- "Assets/GameAssets/Widget/Img/\u4E0B\u8F7D\u8FDB\u5EA6\u6761.png"
+- Assets/GameAssets/Widget/Img/scrollbar.png
+- Assets/GameAssets/Widget/Img/slc-white.png
+- "Assets/GameAssets/Widget/Img/\u7EC6\u5916\u6846.png"
+- "Assets/GameAssets/Widget/Img/\u7B49\u5F85\u83CA\u82B1.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u9762\u677F.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u9762\u677F\u8F93\u5165\u5E95\u6846.png"
+- "Assets/GameAssets/Widget/Img/button_\u524D\u5F80\u5151\u6362.png"
+- "Assets/GameAssets/Widget/Img/button_\u5173\u95ED_\u65E0\u767D\u8FB9.png"
+- "Assets/GameAssets/Widget/Img/tag_\u5B9E\u5FC3\u7EA2\u70B9.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528\u6846-\u52FE\u9009.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u6309\u94AE\u9EC4.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u5173\u95ED\u6309\u94AE.png"
+- "Assets/GameAssets/Widget/Img/button-\u7ACB\u5373\u5145\u503C.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u6309\u94AE\u5C0F\u9EC4.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u5C0F\u52FE\u52FE.png"
+- Assets/GameAssets/Anim/Control/ButtonHighlighted.anim
+- "Assets/GameAssets/Widget/Img/button-\u5207\u6362\u623F\u95F4.png"
+- Assets/GameAssets/Widget/Img/button-close.png
+- "Assets/GameAssets/Widget/Img/\u534F\u8BAE\u6846\u6846.png"
+- "Assets/GameAssets/Widget/Img/\u5706\u89D2\u534A\u900F\u660E\u5E95\u677F.png"
+- "Assets/GameAssets/Widget/Img/\u586B\u5165\u6846.png"
+- Assets/GameAssets/Anim/Control/ButtonNormal.anim
+- Assets/GameAssets/Widget/Img/colorbtn-Red.png
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u52FE\u9009\u70B9\u9009\u6846.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u6309\u94AE\u7EA2.png"
+- "Assets/GameAssets/Widget/Img/\u5BF9\u8BDD\u6846\u5E95\u677F.png"
+- "Assets/GameAssets/Widget/Img/button-\u6210\u4E3AVIP.png"
+- Assets/GameAssets/Anim/Control/ButtonDisabled.anim
+- "Assets/GameAssets/Widget/Img/\u901A\u7528\u6846-\u6587\u5B57\u5E95\u677F.png"
+- "Assets/GameAssets/Widget/Img/\u7ECF\u9A8C\u503C\u6761.png"
+- "Assets/GameAssets/Widget/Img/\u4E0B\u8F7D\u8FDB\u5EA6\u6761\u5E95\u6846.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u9762\u677F\u6807\u9898\u5E95\u6846.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u9762\u677F\u6587\u5B57\u5E95\u6846.png"
+- Assets/GameAssets/Anim/Control/ButtonPressed.anim
+- "Assets/GameAssets/Widget/Img/button-\u6269\u5C55\u83DC\u5355.png"
+- "Assets/GameAssets/Widget/Img/\u901A\u7528_\u5C0F\u7EFF\u70B9.png"
+- Assets/GameAssets/Anim/Control/ButtonEffect.controller
+- "Assets/GameAssets/Widget/Img/\u901A\u7528\u5C0F\u6309\u94AE.png"
+Dependencies: []

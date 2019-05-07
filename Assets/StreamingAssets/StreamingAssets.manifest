@@ -1,0 +1,318 @@
+ManifestFileVersion: 0
+CRC: 814978032
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: portal-window
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: player-figure
+        Dependency_3: currency
+        Dependency_4: material
+        Dependency_5: commodity
+    Info_1:
+      Name: game-window
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: vip
+        Dependency_2: race
+        Dependency_3: font
+        Dependency_4: player-figure
+        Dependency_5: currency
+        Dependency_6: host-info
+        Dependency_7: game-bg
+        Dependency_8: material
+        Dependency_9: sound
+        Dependency_10: commodity
+    Info_2:
+      Name: widget
+      Dependencies: {}
+    Info_3:
+      Name: logo
+      Dependencies: {}
+    Info_4:
+      Name: chat-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: jianmeng
+        Dependency_2: font
+    Info_5:
+      Name: vip
+      Dependencies: {}
+    Info_6:
+      Name: shop-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: currency
+        Dependency_3: prepayment-pic
+    Info_7:
+      Name: race
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: currency
+        Dependency_3: material
+    Info_8:
+      Name: user-task
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_9:
+      Name: seat-window
+      Dependencies:
+        Dependency_0: portal-window
+        Dependency_1: widget
+        Dependency_2: vip
+        Dependency_3: race
+        Dependency_4: font
+        Dependency_5: player-figure
+        Dependency_6: currency
+        Dependency_7: host-info
+        Dependency_8: material
+    Info_10:
+      Name: jianmeng
+      Dependencies: {}
+    Info_11:
+      Name: other-info-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: vip
+        Dependency_2: font
+        Dependency_3: currency
+    Info_12:
+      Name: checkin-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_13:
+      Name: font
+      Dependencies: {}
+    Info_14:
+      Name: room-pic
+      Dependencies: {}
+    Info_15:
+      Name: yuanbao-record-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_16:
+      Name: system-msg
+      Dependencies:
+        Dependency_0: font
+    Info_17:
+      Name: help-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_18:
+      Name: player-figure
+      Dependencies: {}
+    Info_19:
+      Name: room-window
+      Dependencies:
+        Dependency_0: portal-window
+        Dependency_1: widget
+        Dependency_2: race
+        Dependency_3: seat-window
+        Dependency_4: font
+        Dependency_5: currency
+        Dependency_6: material
+    Info_20:
+      Name: more-function
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: logo
+        Dependency_2: user-task
+        Dependency_3: font
+        Dependency_4: nickname-src
+    Info_21:
+      Name: currency
+      Dependencies: {}
+    Info_22:
+      Name: login-mode-window
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_23:
+      Name: pay-channel-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: pay-channel-pic
+    Info_24:
+      Name: prepayment-pic
+      Dependencies: {}
+    Info_25:
+      Name: host-info
+      Dependencies: {}
+    Info_26:
+      Name: pay-channel-pic
+      Dependencies: {}
+    Info_27:
+      Name: wechat-share-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_28:
+      Name: ui-bg
+      Dependencies: {}
+    Info_29:
+      Name: game-bg
+      Dependencies: {}
+    Info_30:
+      Name: material
+      Dependencies:
+        Dependency_0: game-window
+        Dependency_1: prepayment-pic
+    Info_31:
+      Name: player-info-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_32:
+      Name: sound
+      Dependencies: {}
+    Info_33:
+      Name: nickname-src
+      Dependencies: {}
+    Info_34:
+      Name: apk-download-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_35:
+      Name: been-replace-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_36:
+      Name: billboard-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_37:
+      Name: choose-room-fail-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: logo
+        Dependency_2: font
+    Info_38:
+      Name: disconnet-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_39:
+      Name: find-friend-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_40:
+      Name: friend-request-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_41:
+      Name: getaward-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: logo
+        Dependency_2: font
+        Dependency_3: material
+    Info_42:
+      Name: hintitem-dialog
+      Dependencies:
+        Dependency_0: widget
+    Info_43:
+      Name: input
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: currency
+    Info_44:
+      Name: login-panel
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_45:
+      Name: punish-tip-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: logo
+        Dependency_2: font
+    Info_46:
+      Name: pushitem-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: logo
+        Dependency_2: font
+    Info_47:
+      Name: register-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_48:
+      Name: report-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: help-dialog
+    Info_49:
+      Name: select-poker-guide-dialog
+      Dependencies:
+        Dependency_0: game-window
+        Dependency_1: widget
+        Dependency_2: font
+    Info_50:
+      Name: setting-dialog
+      Dependencies:
+        Dependency_0: game-window
+        Dependency_1: widget
+        Dependency_2: font
+    Info_51:
+      Name: ttz-start-info-dialog
+      Dependencies:
+        Dependency_0: game-window
+        Dependency_1: widget
+        Dependency_2: font
+    Info_52:
+      Name: user-agreement-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_53:
+      Name: visitor-choose-nickname-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+        Dependency_2: nickname-src
+    Info_54:
+      Name: welfare-description-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_55:
+      Name: item-detail-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: user-task
+        Dependency_2: font
+    Info_56:
+      Name: real-name-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_57:
+      Name: commodity
+      Dependencies: {}
+    Info_58:
+      Name: set-pserver-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font
+    Info_59:
+      Name: client-version-dialog
+      Dependencies:
+        Dependency_0: widget
+        Dependency_1: font

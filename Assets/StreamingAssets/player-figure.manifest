@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2014665664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d99e21c5e7691267730a2ffe9f02f9aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/PlayerFigure/hair_boy_def.png
+- Assets/GameAssets/PlayerFigure/hair_girl_bg_def.png
+- Assets/GameAssets/PlayerFigure/body_girl_def.png
+- Assets/GameAssets/PlayerFigure/body_boy_def.png
+- Assets/GameAssets/PlayerFigure/hair_girl_def.png
+- Assets/GameAssets/PlayerFigure/head_girl.png
+- Assets/GameAssets/PlayerFigure/head_boy.png
+Dependencies: []

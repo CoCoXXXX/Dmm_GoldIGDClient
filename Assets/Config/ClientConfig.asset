@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f970f37336e5c2345a71b3c1f352c189, type: 3}
+  m_Name: ClientConfig
+  m_EditorClassIdentifier: 
+  Product: {fileID: 11400000, guid: 22773bcd1abb444f8b6f153b144c3191, type: 2}
+  ClientVersion: 1000
+  VersionTxt: 2.1.0
+  SaleChannel: Test
+  XiaoMiMode: 0
+  Platform: 2

@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 1264916987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89322d45e42e45a84e0b8b0745d7e307
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 50154086fd05f3cb3dacc4fa92509ef8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6692e133adfa27a499c95a3a0375c3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45ca78b321b854845909ef44465bb142, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a3773246a1a4b6490ce1ffacce3d5b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 205098668665cd343a31b6e24f56b421, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0cd518a4a2ce754ca81c206887b09b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99bc51fa9dc9b5d4d9552fe42dde91d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/UserTask/Img/button_\u6BCF\u65E5\u4EFB\u52A11.png"
+- "Assets/GameAssets/UserTask/Img/\u4EFB\u52A1\u8FDB\u5EA6\u6761.png"
+- "Assets/GameAssets/UserTask/Img/button_\u672A\u5B8C\u6210.png"
+- "Assets/GameAssets/UserTask/Img/\u865A\u7EBF\u6A2A\u9694.png"
+- "Assets/GameAssets/UserTask/Img/\u5956\u52B1\u5185\u5BB92.png"
+- "Assets/GameAssets/UserTask/Img/\u5DE6\u8FB9\u680F.png"
+- "Assets/GameAssets/UserTask/Img/button_\u53BB\u5B8C\u6210.png"
+- "Assets/GameAssets/UserTask/Img/\u5956\u52B1\u56FE\u6807\u5E95\u677F.png"
+- "Assets/GameAssets/UserTask/Img/\u5956\u52B1\u6761\u76EE\u5E95\u677F.png"
+- "Assets/GameAssets/UserTask/Img/\u586B\u5165\u6846.png"
+- "Assets/GameAssets/UserTask/Img/button_\u514D\u8D39\u91D1\u86CB1.png"
+- "Assets/GameAssets/UserTask/Img/button_\u65B0\u624B\u4EFB\u52A11.png"
+- "Assets/GameAssets/UserTask/Img/\u4EFB\u52A1\u8FDB\u5EA6\u6761\u5E95\u6846.png"
+- "Assets/GameAssets/UserTask/Img/\u6D3B\u52A8\u5206\u5272\u680F.png"
+- Assets/GameAssets/UserTask/Prefab/UserTaskItem.prefab
+- Assets/GameAssets/UserTask/Prefab/TaskItem.prefab
+- "Assets/GameAssets/UserTask/Img/\u53EF\u9886\u53D6.png"
+- "Assets/GameAssets/UserTask/Img/\u5DF2\u8FBE\u6210.png"
+- "Assets/GameAssets/UserTask/Img/button_\u6BCF\u65E5\u4EFB\u52A12.png"
+- "Assets/GameAssets/UserTask/Img/\u63D0\u793A\u5C0F\u7EA2\u70B9.png"
+- "Assets/GameAssets/UserTask/Img/\u5C55\u5F00\u6536\u7F29.png"
+- "Assets/GameAssets/UserTask/Img/button_\u9886\u53D6\u5956\u52B1.png"
+- "Assets/GameAssets/UserTask/Img/button_\u5DF2\u9886\u53D6.png"
+- "Assets/GameAssets/UserTask/Img/\u63D0\u793A\u6846.png"
+- "Assets/GameAssets/UserTask/Img/\u6D3B\u52A8\u8BF4\u660E\u5E95\u677F.png"
+- "Assets/GameAssets/UserTask/Img/button_\u65B0\u624B\u4EFB\u52A12.png"
+- "Assets/GameAssets/UserTask/Img/title_\u6D3B\u52A8\u798F\u5229.png"
+- "Assets/GameAssets/UserTask/Img/button_\u8FDB\u884C\u4E2D.png"
+- "Assets/GameAssets/UserTask/Img/\u4EFB\u52A1\u5E95\u6846.png"
+- "Assets/GameAssets/UserTask/Img/button_\u798F\u5229\u4EFB\u52A11.png"
+- Assets/GameAssets/UserTask/Prefab/UserTaskDialog.prefab
+- "Assets/GameAssets/UserTask/Img/\u53F3\u8FB9\u680F.png"
+- "Assets/GameAssets/UserTask/Img/button_\u514D\u8D39\u91D1\u86CB2.png"
+- "Assets/GameAssets/UserTask/Img/button_\u798F\u5229\u4EFB\u52A12.png"
+- "Assets/GameAssets/UserTask/Img/\u5956\u52B1\u5185\u5BB9.png"
+- "Assets/GameAssets/UserTask/Img/\u6D3B\u52A8\u754C\u9762\u5916\u6846.png"
+- Assets/GameAssets/UserTask/Prefab/UserTaskTipDialog.prefab
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font

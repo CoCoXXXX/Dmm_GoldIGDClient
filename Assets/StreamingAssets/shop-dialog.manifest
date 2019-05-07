@@ -1,0 +1,186 @@
+ManifestFileVersion: 0
+CRC: 1691788685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 178e935cd647c96f32be3d4211c34b0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef746624450eece1c490f50e00256f97
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5433ecf0296e2d94d97514fd17dbda1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4b9ed31c1fee67439ab621d737255de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3c07d61f39db17459ea2b9f016a1e17, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be692c02c0e54d148a79ff37cf11b159, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0312bb72a40741548996a8e316fb8e6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46b4cde23868dda47aa4fc93129bd0e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d97ef962083c0d4ba1b650e495e524e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f91eee6e80d8734390ad428792adce8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bbf7e4794f0bd74480415725ba2aec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73a37af856d9e4586aff940f8e5480f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8a3eb499cb3a924d93d3b918746a840, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7c3233a708b1d74987b1430fb777bfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70e220fb151003d4e8113fc7eebfbf0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71a4f72d13d3b4173bd7764ec5d52c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7da7460f5f1d6dc4ea1678f98bac84d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/ShopDialog/Img/VIP/button-\u786E\u8BA4\u8D2D\u4E70.png"
+- "Assets/GameAssets/ShopDialog/Img/\u5145\u503C\u5305\u56FE\u7247\u5E95\u677F.png"
+- Assets/GameAssets/ShopDialog/Img/Commodity/arrow.png
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u63D0\u793A\u680FLeft.png"
+- "Assets/GameAssets/ShopDialog/Img/\u88C5\u9970\u54C1.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u670D\u88C5.png"
+- "Assets/GameAssets/ShopDialog/Img/button-VIP\u4F1A\u5458.png"
+- "Assets/GameAssets/ShopDialog/Img/button-\u5145\u503C.png"
+- Assets/GameAssets/ShopDialog/Img/VIP/vip3.png
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u6446\u8BBE.png"
+- "Assets/GameAssets/ShopDialog/Img/\u5143\u5B9D\u5546\u57CE.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u65E0\u9700\u8D2D\u4E70.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u5546\u54C1\u9009\u9879\u5361.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/button-VIP\u7684\u7279\u6743.png"
+- "Assets/GameAssets/ShopDialog/Img/Yuanbao/button_\u89C4\u5219\u8BF4\u660E.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u8865\u7B7E\u5361\u5151\u6362.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/title_\u4F59\u989D.png"
+- Assets/GameAssets/ShopDialog/Prefab/ExchangeItem.prefab
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u5C55\u5F00.png"
+- Assets/GameAssets/ShopDialog/Prefab/PrepaymentItem.prefab
+- "Assets/GameAssets/ShopDialog/Img/Yuanbao/button_\u798F\u5229\u4E2D\u5FC3_off.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u5546\u54C1\u5916\u6846.png"
+- "Assets/GameAssets/ShopDialog/Img/Charge/\u63A8\u8350.png"
+- "Assets/GameAssets/ShopDialog/Img/Yuanbao/\u798F\u5229\u754C\u9762\u5E95\u90E8.png"
+- Assets/GameAssets/ShopDialog/Img/VIP/vip2.png
+- "Assets/GameAssets/ShopDialog/Img/Commodity/VIP\u5546\u54C1.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u91D1\u989D\u586B\u5165\u5185\u6846.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u8D2D\u4E70\u88C5\u9970\u54C1\u754C\u9762\u4E09\u5BAB\u683C.png"
+- "Assets/GameAssets/ShopDialog/Img/Yuanbao/button_\u798F\u5229\u4E2D\u5FC3_on.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u5934\u9970.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/VIP\u63CF\u8FF0\u586B\u5165\u6846.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u4EF7\u683C.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u901A\u7528_\u6309\u94AE\u5C0F\u9EC4\u7A84.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u91D1\u86CB\u5151\u6362.png"
+- "Assets/GameAssets/ShopDialog/Img/Yuanbao/\u5151\u6362\u5238\u5E95\u677F.png"
+- "Assets/GameAssets/ShopDialog/Img/\u6211\u7684\u91D1\u86CB.png"
+- Assets/GameAssets/ShopDialog/Img/Commodity/button-More.png
+- "Assets/GameAssets/ShopDialog/Img/Charge/\u70ED\u9500.png"
+- "Assets/GameAssets/ShopDialog/Img/Yuanbao/button_\u5151\u5956\u8BB0\u5F55.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u5546\u54C1\u5E95\u677F.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u5546\u54C1\u89E3\u9501\u89D2\u6807.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u91D1\u989D\u586B\u5165\u5916\u6846.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/button-\u786E\u8BA4\u7EED\u8D39.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u8D2D\u4E70VIP.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u8BB0\u724C\u5668\u5151\u6362.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/button_\u589E\u52A0.png"
+- "Assets/GameAssets/ShopDialog/Img/\u5151\u6362\u8BB0\u5F55.png"
+- Assets/GameAssets/ShopDialog/Prefab/CommodityItem.prefab
+- "Assets/GameAssets/ShopDialog/Img/button_\u514D\u8D39\u8D5A\u91D1\u86CB.png"
+- "Assets/GameAssets/ShopDialog/Img/\u5151\u6362\u5C4B.png"
+- "Assets/GameAssets/ShopDialog/Img/button-\u5143\u5B9D\u5546\u57CE.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u63D0\u793A\u680F.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u8D2D\u4E7030\u5929VIP.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP\u4F1A\u5458.png"
+- "Assets/GameAssets/ShopDialog/Img/Charge/\u652F\u4ED8\u5305\u5E95\u677F2.png"
+- "Assets/GameAssets/ShopDialog/Img/\u623F\u9876.png"
+- Assets/GameAssets/ShopDialog/Img/VIP/vip4.png
+- Assets/GameAssets/ShopDialog/Prefab/YuanBaoItem.prefab
+- "Assets/GameAssets/ShopDialog/Img/Charge/\u652F\u4ED8\u5305\u5E95\u677F.png"
+- "Assets/GameAssets/ShopDialog/Img/Charge/\u652F\u4ED8\u5305\u6807\u9898.png"
+- "Assets/GameAssets/ShopDialog/Img/\u5145\u503C\u5305\u56FE\u7247\u5E95\u677F3.png"
+- Assets/GameAssets/ShopDialog/Prefab/VipItem.prefab
+- "Assets/GameAssets/ShopDialog/Img/VIP/button-\u786E\u8BA4\u5347\u7EA7.png"
+- Assets/GameAssets/ShopDialog/Img/Commodity/button-Less.png
+- "Assets/GameAssets/ShopDialog/Img/button-\u5151\u6362\u5C4B.png"
+- Assets/GameAssets/ShopDialog/Prefab/ShopPanel.prefab
+- "Assets/GameAssets/ShopDialog/Img/\u5145\u503C.png"
+- Assets/GameAssets/ShopDialog/Img/VIP/vip1.png
+- "Assets/GameAssets/ShopDialog/Img/\u6211\u7684\u94F6\u7968.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u88C5\u9970\u54C1\u63CF\u8FF0.png"
+- "Assets/GameAssets/ShopDialog/Img/Charge/\u5145\u503C\u6807\u7B7E.png"
+- "Assets/GameAssets/ShopDialog/Img/button-\u88C5\u9970\u54C1.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u5151\u6362\u7BAD\u5934.png"
+- "Assets/GameAssets/ShopDialog/Img/\u6211\u7684\u5143\u5B9D.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u5DF2\u8D2D\u4E70VIP.png"
+- Assets/GameAssets/ShopDialog/Img/VIP/vip5.png
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u9009\u4E2D.png"
+- "Assets/GameAssets/ShopDialog/Img/button_\u5173\u95ED_\u9EC4\u8FB9.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/button_\u51CF\u5C11.png"
+- Assets/GameAssets/ShopDialog/Img/VIP/vip-tag.png
+- "Assets/GameAssets/ShopDialog/Img/\u5546\u5E97\u9762\u677F.png"
+- "Assets/GameAssets/ShopDialog/Img/\u5145\u503C\u5305\u56FE\u7247\u5E95\u677F2.png"
+- "Assets/GameAssets/ShopDialog/Img/VIP/\u5DF2\u83B7\u5F97.png"
+- "Assets/GameAssets/ShopDialog/Img/Commodity/\u586B\u5165\u6846.png"
+- "Assets/GameAssets/ShopDialog/Img/Exchange/\u5F53\u524D\u6570\u91CF\u5E95\u6846.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/currency
+- E:/IGDClient/Assets/StreamingAssets/prepayment-pic

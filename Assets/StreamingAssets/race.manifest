@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 2570987735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 140437132556e834a013942e5180a851
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ea014d29b94d2029eac57a7a0bb0373
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b658eeb188984a0d8b2820d3d1a680b0, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd92a4c361f522941aa04a118998e765, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ab1e61469ca6d842a7a1ab6c32ad898, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bbf7e4794f0bd74480415725ba2aec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f51df79e2c121b46b49754b31301a60, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e600406b5ff14f8d933014b96a758a80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b88b0dd3e6a0c4498d54b58d9f6d708, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 398d816e5558e054abd8de21c7a14477, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/Race/Img/\u8D5B\u4E8B\u8BE6\u60C5\u5185\u5BB9\u5E95\u677F.png"
+- "Assets/GameAssets/Race/Img/\u8D5B\u4E8B\u8BE6\u60C5\u6309\u94AE\u680F.png"
+- "Assets/GameAssets/Race/Img/\u6392\u540D\u5E95\u677F.png"
+- "Assets/GameAssets/Race/Img/\u6807\u7B7E\u5361_\u6392\u884C\u699C.png"
+- "Assets/GameAssets/Race/Img/\u6807\u7B7E\u5361_\u5956\u52B1\u5185\u5BB9.png"
+- Assets/GameAssets/Race/Prefab/DisPlayRankItem.prefab
+- "Assets/GameAssets/Race/Img/button_\u5C0F\u62A5\u540D.png"
+- "Assets/GameAssets/Race/Img/200\u5143\u7EA2\u5305.png"
+- Assets/GameAssets/Race/Prefab/RaceItem.prefab
+- "Assets/GameAssets/Race/Img/\u6392\u540D\u5185\u5BB9.png"
+- "Assets/GameAssets/Race/Img/\u6392\u540D\u5C55\u5F00.png"
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5206\u4EAB\u9876\u90E8\u680F 1.png"
+- "Assets/GameAssets/Race/Img/button_\u786E\u8BA4.png"
+- "Assets/GameAssets/Race/Img/\u623F\u95F4\u4FE1\u606F.png"
+- "Assets/GameAssets/Race/Img/button_\u53C2\u8D5B.png"
+- Assets/GameAssets/Race/Prefab/HistoryRankItem.prefab
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5206\u4EAB\u9876\u90E8\u680F.png"
+- "Assets/GameAssets/Race/Img/button_\u70AB\u8000\u4E00\u4E0B.png"
+- "Assets/GameAssets/Race/Img/\u901F\u914D\u73A9\u5BB6.png"
+- "Assets/GameAssets/Race/Img/button_\u62A5\u540D\u7ED3\u675F.png"
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5E95\u677F.png"
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5206\u4EABlogo.png"
+- "Assets/GameAssets/Race/Img/button_\u53D6\u6D88\u901F\u914D.png"
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5206\u4EAB\u73A9\u5BB6\u4FE1\u606F.png"
+- Assets/GameAssets/Race/Prefab/RaceAwardsDialog.prefab
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u7ED3\u7B97.png"
+- "Assets/GameAssets/Race/Img/\u4E8C\u7EF4\u7801\u5E95\u677F.png"
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5206\u4EAB\u80CC\u666F.png"
+- "Assets/GameAssets/Race/Img/\u8D5B\u4E8B\u8BE6\u60C5.png"
+- "Assets/GameAssets/Race/Img/\u6BD4\u8D5B\u5206\u4EAB\u5E95\u90E8\u680F.png"
+- Assets/GameAssets/Race/Prefab/RaceIntroduceDialog.prefab
+- "Assets/GameAssets/Race/Img/\u6807\u7B7E\u5361_\u8D5B\u4E8B\u89C4\u5219.png"
+- "Assets/GameAssets/Race/Img/button_\u62A5\u540D.png"
+- "Assets/GameAssets/Race/Img/\u6392\u884C\u699C\u5E95\u677F.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/currency
+- E:/IGDClient/Assets/StreamingAssets/material

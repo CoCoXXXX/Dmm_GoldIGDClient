@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 3991869686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba8550cd5ec9976bc16693c097012941
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88982edb7fcaad51b6c61c92be03a2a1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0ec5763b2b57c0468fa067776714e40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa631a3aa1468a45ad1c0e2f1109d90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4428c8c3039145f4e83b264ae7f5c84c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c5c7126810941cfafc9736e36e3697c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5ea35a677c5fad4ba4139767852923b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b87ef87b403f43c080254291a0a3612b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa4b3adb135f9a8408f7663f79672dcc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 301fe0fb47fa4aedb3486cfec000669e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12dcdeee82e78e34da3fa354c0f5f42b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/PortalWindow/Img/\u5FAE\u4FE1\u7528\u6237\u8EAB\u4EFD\u6807\u8BC6.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5DE6\u9762\u677F\u5E95\u6846_\u597D\u53CB.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u66F4\u591A.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5DE6\u9762\u677F.png"
+- "Assets/GameAssets/PortalWindow/Img/\u6A21\u5F0F_\u597D\u53CB.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u5728\u7EBF\u5E2E\u52A9.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u9000\u51FA.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5E95\u90E8\u5BFC\u822A\u680F01.png"
+- Assets/GameAssets/PortalWindow/Prefab/FriendItem.prefab
+- "Assets/GameAssets/PortalWindow/Img/\u6A21\u5F0F_\u7ECF\u5178.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5DE6\u9762\u677F\u5E95\u6846_\u6362\u88C5.png"
+- Assets/GameAssets/PortalWindow/Prefab/PortalWindow.prefab
+- "Assets/GameAssets/PortalWindow/Img/button_\u5DE6\u9762\u7248\u597D\u53CB\u73A9\u5BB6\u4FE1\u606F.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u6D3B\u52A8\u798F\u5229.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u5237\u65B0.png"
+- "Assets/GameAssets/PortalWindow/Img/\u79BB\u7EBF.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5C0F\u94F6\u7968.png"
+- "Assets/GameAssets/PortalWindow/Img/\u6A21\u5F0F_\u6BD4\u8D5B.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u88C5\u626E.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u5C0F\u5145\u503C\u6309\u94AE.png"
+- "Assets/GameAssets/PortalWindow/Img/\u6A21\u5F0F_\u56E2\u56E2\u8F6C.png"
+- "Assets/GameAssets/PortalWindow/Img/\u597D\u53CB\u4FE1\u606F\u5E95\u677F.png"
+- "Assets/GameAssets/PortalWindow/Img/\u597D\u53CB\u5934\u50CF\u6635\u79F0.png"
+- Assets/GameAssets/PortalWindow/Img/2018_spring_gift_content.png
+- "Assets/GameAssets/PortalWindow/Img/button_\u597D\u53CB.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u641C\u7D22.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u641C\u7D22\u6295\u5F71.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u6BCF\u65E5\u7B7E\u5230.png"
+- "Assets/GameAssets/PortalWindow/Img/VIP\u89D2\u6807.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u5237\u65B0\u6295\u5F71.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5E95\u90E8\u5BFC\u822A\u680F02.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5728\u7EBF.png"
+- Assets/GameAssets/PortalWindow/Img/2018_spring_hall.png
+- "Assets/GameAssets/PortalWindow/Img/\u684C\u6905.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u6362\u88C5\u6295\u5F71.png"
+- "Assets/GameAssets/PortalWindow/Img/\u9876\u90E8\u5BFC\u822A\u680F01.png"
+- "Assets/GameAssets/PortalWindow/Img/\u6A21\u5F0F_\u5355\u673A.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u6362\u88C5.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u5145\u503C\u5546\u5E97.png"
+- "Assets/GameAssets/PortalWindow/Img/\u6A21\u5F0F_\u7FFB\u500D.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u6E38\u620F\u516C\u544A.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u5DE6\u9762\u7248\u597D\u53CB\u5220\u9664.png"
+- "Assets/GameAssets/PortalWindow/Img/\u5DE6\u9762\u7248\u5207\u6362\u7BAD\u5934.png"
+- "Assets/GameAssets/PortalWindow/Img/button_\u8FD4\u56DE.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/player-figure
+- E:/IGDClient/Assets/StreamingAssets/currency
+- E:/IGDClient/Assets/StreamingAssets/material
+- E:/IGDClient/Assets/StreamingAssets/commodity

@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 2204102164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43ab5ea4f7a35a3bb1b21cf14e06eb83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f33272df2df6fa6b5246c1375c0842a9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e58a211183191c4982abeaba8bcf86d, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e99b4d2afa268942876859f2f5e34e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72908763702bcd0428af7b427e660b7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc42edf5eb3f9584d8aa84d7f148a6cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f6d1728b8aed3549aeae88d7b716070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c809cf3a4ff0b5d478c7bd737eb29e59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e62629e22f60a54cad97136aee201fa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u9762\u677F_\u6709\u8F93\u5165\u5E95\u677F.png"
+- "Assets/GameAssets/ChatDialog/Img/\u9009\u9879_\u5E38\u7528\u77ED\u8BED.png"
+- Assets/GameAssets/ChatDialog/Prefab/TextItem.prefab
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u4EB2\u4EB2].png"
+- "Assets/GameAssets/ChatDialog/Img/button_\u5173.png"
+- Assets/GameAssets/ChatDialog/Prefab/ChatBubble.prefab
+- "Assets/GameAssets/ChatDialog/Img/\u9009\u9879_\u666E\u901A\u8868\u60C5.png"
+- "Assets/GameAssets/ChatDialog/Img/button_\u5F00.png"
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u9762\u677F_\u9009\u9879\u5E95\u677F.png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u6D41\u6CEA].png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u7A98\u8FEB].png"
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u9762\u677F_\u65E0\u8F93\u5165\u5E95\u677F.png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u6012\u706B].png"
+- "Assets/GameAssets/ChatDialog/Img/button-\u53D1\u9001.png"
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u680F\u8868\u60C5\u5E95\u6846.png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u8D2A\u8D22].png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u5472\u7259].png"
+- "Assets/GameAssets/ChatDialog/Img/VIP\u89D2\u6807.png"
+- "Assets/GameAssets/ChatDialog/Img/\u5BF9\u8BDD\u6C14\u6CE12.png"
+- Assets/GameAssets/ChatDialog/Prefab/JianMengItem.prefab
+- Assets/GameAssets/ChatDialog/Prefab/ChatPanel.prefab
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u574F\u7B11].png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u6D41\u6C57].png"
+- "Assets/GameAssets/ChatDialog/Img/\u9009\u9879_\u8D31\u840C\u8868\u60C5.png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u90AA\u6076].png"
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u9762\u677F_\u804A\u5929\u8BB0\u5F55\u5206\u5272\u7EBF.png"
+- "Assets/GameAssets/ChatDialog/Img/Emotion/[\u70B8\u5F39].png"
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u9762\u677F_\u5E95\u677F.png"
+- "Assets/GameAssets/ChatDialog/Img/\u804A\u5929\u6CE1\u6CE1.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/jianmeng
+- E:/IGDClient/Assets/StreamingAssets/font

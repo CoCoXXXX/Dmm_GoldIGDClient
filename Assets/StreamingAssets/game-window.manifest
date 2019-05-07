@@ -1,0 +1,467 @@
+ManifestFileVersion: 0
+CRC: 1874422027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb9fb066a5e5abed10daf1b985eb82e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3df395fb9e01b736b2f2774a14b23c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bf44a106ec68054da9407af4e0c6261, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ebf5f804ee5bfc418e7293485d03a2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef6b8bb108dd9a14288cd29d40d8c4ed, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 520f7e3282074754398d6d782d427028, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6df048a2efb764d4094a05afda73ac99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5549308361074032a4a1b102e3484412, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa631a3aa1468a45ad1c0e2f1109d90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca8a8d3863a8564984d678a4700bada, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f83f5a4d239a9c43b64c0cdd81152ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 027a8a479ade1664685625603f1d203a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bbf7e4794f0bd74480415725ba2aec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edbf175777ab2fd408ce5e98c1656abb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d0d977aa8af02428b1fe6abcecf3a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b2e01a769d0f9e41b760946634afd29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81e617c763e37334183ad6124df10273, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d406fbf81eeda2b46b047acd02357b2a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 799b23c9a75054e409cad3f5e195a303, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30fd548a309ee11469456045b456c539, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25e8429ac1e047c4d873e41580bbbdc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1da3c6eade0233346a97e5007b238977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf9254bb52b34b4a8cfeccf9a012ac4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63ed005c0b0cde74b8f47f966fc9f679, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e081a38ca04c39944a7cc3c7068f1af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b721d01d0360e43459f01c644344c0db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f2c862ed7fdb934e967ca8abbc3c669, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34e48f7edeaf62a4baf6f99d2b3ef04f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c871cd6ff1e02934fac7036ea2c8fc32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75bd1d8fa27fb6f4e806e0226aeedd68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4adfecfa78e5644ba1f44becb3492b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c77aa9ff7443648f2af20d81e0da0b26, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/GameWindow/Img/Card/spade_12.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_10.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_14.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_2.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_3.png
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u9E21\u86CB01.png"
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u6E0501.png"
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u58F302.png"
+- Assets/GameAssets/GameWindow/Img/1.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_13.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97\u6807\u9898-\u8D62.png"
+- Assets/GameAssets/GameWindow/Img/Card/heart_3.png
+- Assets/GameAssets/GameWindow/Prefab/CardSlotLastChuPai.prefab
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_14.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_13.png
+- Assets/GameAssets/GameWindow/Img/0.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_6.png
+- Assets/GameAssets/GameWindow/Anim/LittleBlast.controller
+- Assets/GameAssets/GameWindow/Anim/EggFly.anim
+- Assets/GameAssets/GameWindow/Img/Card/club_6.png
+- "Assets/GameAssets/GameWindow/Img/button-\u4E0D\u51FA.png"
+- Assets/GameAssets/GameWindow/Anim/Plane.anim
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_14.png
+- "Assets/GameAssets/GameWindow/Img/\u79BB\u684C\u6807\u5FD7.png"
+- Assets/GameAssets/GameWindow/Anim/Rocket.anim
+- Assets/GameAssets/GameWindow/Img/Card/club_11.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_2.png
+- "Assets/GameAssets/GameWindow/Img/button-\u8FDB\u8D21.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7FC5\u8180.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_14.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_10.png
+- Assets/GameAssets/GameWindow/Img/Card/diamond_3.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_9.png
+- "Assets/GameAssets/GameWindow/Img/\u5934\u6E38.png"
+- Assets/GameAssets/GameWindow/Img/Card/spade_6.png
+- "Assets/GameAssets/GameWindow/Img/\u6253\u5230\u51E0\u63D0\u793A\u6846.png"
+- Assets/GameAssets/GameWindow/Img/Card/heart_5.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97\u7FFB\u500D\u5E95\u677F.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/joker_red.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_4.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97_\u672C\u4EBA\u6218\u7EE9.png"
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u706B\u661F.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_2.png
+- Assets/GameAssets/GameWindow/Anim/BigBlast.anim
+- Assets/GameAssets/GameWindow/Img/Card/spade_10.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_11.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_7.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_6.png
+- Assets/GameAssets/GameWindow/Anim/PlaneNormal.anim
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_10.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/joker_black.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_8.png
+- "Assets/GameAssets/GameWindow/Img/button-\u8FD8\u8D21.png"
+- Assets/GameAssets/GameWindow/Img/Card/diamond_13.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_2.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_14.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_5.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_13.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_12.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_9.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_3.png
+- Assets/GameAssets/GameWindow/Img/Rocket/huojian.png
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u58F301.png"
+- Assets/GameAssets/GameWindow/Img/Card/heart_12.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_13.png
+- Assets/GameAssets/GameWindow/Anim/LittleBlast.anim
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_11.png
+- "Assets/GameAssets/GameWindow/Img/\u654C\u6211\u6807\u7B7E_\u6211.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_11.png
+- Assets/GameAssets/GameWindow/Anim/FlushNormal.anim
+- Assets/GameAssets/GameWindow/Img/Card/diamond_7.png
+- "Assets/GameAssets/GameWindow/Img/\u63D2\u5165\u4F4D\u7F6E\u6307\u793A.png"
+- Assets/GameAssets/GameWindow/Img/FlyItem/EggAppear.anim
+- Assets/GameAssets/GameWindow/Img/Card/club_2.png
+- Assets/GameAssets/GameWindow/Img/Card/club_14.png
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u5149\u73AF.png"
+- "Assets/GameAssets/GameWindow/Img/\u654C\u6211\u6807\u7B7E_\u654C.png"
+- Assets/GameAssets/GameWindow/Img/Card/spade_14.png
+- Assets/GameAssets/GameWindow/Prefab/RoundEndRank-Other.prefab
+- Assets/GameAssets/GameWindow/Img/Card/heart_4.png
+- "Assets/GameAssets/GameWindow/Img/Flush/\u540C\u82B1\u987A.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_12.png
+- Assets/GameAssets/GameWindow/Img/desk.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_2.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_5.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_10.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_8.png
+- Assets/GameAssets/GameWindow/Img/Card/club_9.png
+- "Assets/GameAssets/GameWindow/Img/button-\u9009\u5355\u5F20.png"
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u5149\u67F1.png"
+- Assets/GameAssets/GameWindow/Anim/FlowerFly.anim
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97\u6807\u9898-\u518D\u63A5\u518D\u5389.png"
+- Assets/GameAssets/GameWindow/Prefab/BCounterTipGroup.prefab
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u9E21\u86CB02.png"
+- "Assets/GameAssets/GameWindow/Img/button-\u91CD\u65B0\u7406\u724C.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/button-\u7EE7\u7EED.png"
+- Assets/GameAssets/GameWindow/Img/Card/diamond_11.png
+- Assets/GameAssets/GameWindow/Img/Card/frp.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_5.png
+- Assets/GameAssets/GameWindow/Anim/Flush.anim
+- "Assets/GameAssets/GameWindow/Img/button-\u63D0\u793A.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_9.png
+- Assets/GameAssets/GameWindow/Prefab/RoundEndRank-MySelf.prefab
+- Assets/GameAssets/GameWindow/Img/Rocket/huojianweiyan.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_12.png
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u7070\u5C18.png"
+- Assets/GameAssets/GameWindow/Img/Card/diamond_10.png
+- Assets/GameAssets/GameWindow/Img/chair.png
+- "Assets/GameAssets/GameWindow/Img/button-\u6D3B\u52A8.png"
+- "Assets/GameAssets/GameWindow/Img/button_\u8E22\u51FA.png"
+- Assets/GameAssets/GameWindow/Anim/BigBlastNormal.anim
+- Assets/GameAssets/GameWindow/Img/Blast/DustYinJi.png
+- Assets/GameAssets/GameWindow/Img/Card/club_4.png
+- "Assets/GameAssets/GameWindow/Img/Plane/\u63BC\u86CB\u98DE\u673A.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_11.png
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u9E21\u86CB00.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_7.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_9.png
+- Assets/GameAssets/GameWindow/Prefab/CardSlot.prefab
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_6.png
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u95EA\u514902.png"
+- "Assets/GameAssets/GameWindow/Img/\u9009\u5355\u5F20.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_4.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_10.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_5.png
+- Assets/GameAssets/GameWindow/Anim/FlowerBlast.anim
+- Assets/GameAssets/GameWindow/Img/Card/diamond_8.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_2.png
+- Assets/GameAssets/GameWindow/Img/Card/joker_red.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_3.png
+- "Assets/GameAssets/GameWindow/Img/\u9009\u6574\u5217.png"
+- Assets/GameAssets/GameWindow/Anim/LittleBlastNormal.anim
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u9EC4.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97_\u5E95\u9762\u677F.png"
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u767D\u70ED\u5316.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_13.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_12.png
+- Assets/GameAssets/GameWindow/Img/7.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_13.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_3.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_10.png
+- "Assets/GameAssets/GameWindow/Img/Blast/\u6838\u7206\u70B8_\u5149\u67F1.png"
+- Assets/GameAssets/GameWindow/Img/Card/diamond_12.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_9.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/button-\u7ED3\u7B97\u5206\u4EAB.png"
+- "Assets/GameAssets/GameWindow/Img/\u663E\u793A\u91D1\u94B1.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_8.png
+- Assets/GameAssets/GameWindow/Anim/RocketNormal.anim
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_10.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_11.png
+- Assets/GameAssets/GameWindow/Img/Card/club_12.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_9.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_3.png
+- Assets/GameAssets/GameWindow/Img/Card/club_5.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_2.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_3.png
+- "Assets/GameAssets/GameWindow/Img/Blast/\u6838\u7206\u70B8_\u8611\u83C7\u4E91.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_8.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_9.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u4E0B\u5C40\u6253X.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_7.png
+- "Assets/GameAssets/GameWindow/Img/button-\u540C\u82B1\u987A.png"
+- Assets/GameAssets/GameWindow/Anim/Egg.controller
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u5149\u8292.png"
+- Assets/GameAssets/GameWindow/Img/9.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/button-\u7ED3\u7B97\u8FD4\u56DE.png"
+- Assets/GameAssets/GameWindow/Prefab/Effect/Flush/StraightFlush.prefab
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97\u6807\u9898-\u5C0F\u80DC\u4E00\u5C40.png"
+- Assets/GameAssets/GameWindow/Prefab/Effect/Blast/BigBlast.prefab
+- Assets/GameAssets/GameWindow/Anim/BigBlast.controller
+- Assets/GameAssets/GameWindow/Img/4.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_13.png
+- Assets/GameAssets/GameWindow/Img/Card/diamond_2.png
+- Assets/GameAssets/GameWindow/Img/FlyItem/EggBlast.anim
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u5149\u7403.png"
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u6E0500.png"
+- Assets/GameAssets/GameWindow/Img/Card/heart_13.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_6.png
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u9C9C\u82B1.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_12.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_5.png
+- Assets/GameAssets/GameWindow/Img/Card/diamond_14.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_4.png
+- Assets/GameAssets/GameWindow/Prefab/Effect/Rocket/Rocket.prefab
+- Assets/GameAssets/GameWindow/Anim/Flower.controller
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_9.png
+- "Assets/GameAssets/GameWindow/Img/\u8FDB\u8FD8\u8D21\u5E95\u6846Label.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_14.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_7.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_3.png
+- Assets/GameAssets/GameWindow/Img/Card/diamond_5.png
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u9E21\u86CB03.png"
+- Assets/GameAssets/GameWindow/Img/Plane/huojianyan.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_11.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/joker_black.png
+- "Assets/GameAssets/GameWindow/Img/button-\u51FA\u724C.png"
+- "Assets/GameAssets/GameWindow/Img/\u8BB0\u724C\u5668.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_14.png
+- "Assets/GameAssets/GameWindow/Img/button-\u8FD4\u56DE.png"
+- "Assets/GameAssets/GameWindow/Img/\u51FA\u724C\u680F.png"
+- "Assets/GameAssets/GameWindow/Img/button-\u8BBE\u7F6E.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_5.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_7.png
+- Assets/GameAssets/GameWindow/Prefab/Effect/FlyItem/Flower.prefab
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u58F303.png"
+- Assets/GameAssets/GameWindow/Img/Card/spade_4.png
+- Assets/GameAssets/GameWindow/Img/Card/club_13.png
+- "Assets/GameAssets/GameWindow/Img/\u5DF2\u51C6\u5907.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97\u6807\u9898-\u8F93.png"
+- "Assets/GameAssets/GameWindow/Img/button-\u7406\u6210\u4E00\u5217.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u5931\u8D25_\u54ED.png"
+- Assets/GameAssets/GameWindow/Anim/Flush.controller
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_5.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_4.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_3.png
+- Assets/GameAssets/GameWindow/Prefab/MiniCardSlot.prefab
+- Assets/GameAssets/GameWindow/Img/6.png
+- "Assets/GameAssets/GameWindow/Img/\u901F\u914D\u73A9\u5BB6.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_3.png
+- "Assets/GameAssets/GameWindow/Img/\u4E8C\u6E38.png"
+- "Assets/GameAssets/GameWindow/Img/sign-\u6297\u8D21.png"
+- "Assets/GameAssets/GameWindow/Img/button-\u8BB0\u724C\u5668.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_2.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_7.png
+- "Assets/GameAssets/GameWindow/Img/button-\u8FD4\u56DE\u5927\u5385.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_8.png
+- Assets/GameAssets/GameWindow/Img/Card/diamond_4.png
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_\u70DF.png"
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u95EA\u514901.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_4.png
+- "Assets/GameAssets/GameWindow/Img/button-\u770B\u684C\u9762.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u80DC\u5229_\u7B11.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_9.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_11.png
+- "Assets/GameAssets/GameWindow/Img/\u6253\u724C\u754C\u9762\u6309\u94AE\u5E95\u677F.png"
+- "Assets/GameAssets/GameWindow/Img/FlyItem/\u86CB\u58F300.png"
+- "Assets/GameAssets/GameWindow/Img/\u9080\u8BF7\u5FEB\u6377\u6309\u94AE.png"
+- Assets/GameAssets/GameWindow/Img/Card/diamond_9.png
+- Assets/GameAssets/GameWindow/Prefab/Effect/Blast/LittleBlast.prefab
+- "Assets/GameAssets/GameWindow/Img/button-\u6258\u7BA1.png"
+- Assets/GameAssets/GameWindow/Prefab/CardColumn.prefab
+- "Assets/GameAssets/GameWindow/Img/Flush/\u540C\u82B1\u987A\u7C92\u5B50.png"
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7ED3\u7B97_\u5BF9\u65B9\u6218\u7EE9.png"
+- Assets/GameAssets/GameWindow/Img/8.png
+- Assets/GameAssets/GameWindow/Img/Card/club_7.png
+- "Assets/GameAssets/GameWindow/Img/\u5145\u503C\u7B26\u53F7.png"
+- Assets/GameAssets/GameWindow/Img/Card/club_8.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_2.png
+- Assets/GameAssets/GameWindow/Img/2.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_10.png
+- Assets/GameAssets/GameWindow/Img/3.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_13.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_7.png
+- Assets/GameAssets/GameWindow/Img/Card/joker_black.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u83B7\u5F97\u7ECF\u9A8C.png"
+- "Assets/GameAssets/GameWindow/Img/\u53F3\u4E0A\u8BBE\u7F6E\u5E95\u677F.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_12.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_13.png
+- "Assets/GameAssets/GameWindow/Img/button-\u804A\u5929.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_12.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_6.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_8.png
+- Assets/GameAssets/GameWindow/Prefab/GameWindow.prefab
+- "Assets/GameAssets/GameWindow/Img/\u7FFB\u51E0\u500D.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_6.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_10.png
+- Assets/GameAssets/GameWindow/Img/clock arrow.png
+- Assets/GameAssets/GameWindow/Img/Rocket/huojianguanghuan.png
+- "Assets/GameAssets/GameWindow/Img/\u8FDB\u8FD8\u8D21\u5E95\u6846.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_9.png
+- "Assets/GameAssets/GameWindow/Img/\u5C0F\u7EFF\u94A9.png"
+- Assets/GameAssets/GameWindow/Img/CardEndRound/heart_6.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_7.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_8.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/joker_red.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_4.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_7.png
+- "Assets/GameAssets/GameWindow/Img/button-\u51C6\u5907.png"
+- Assets/GameAssets/GameWindow/Prefab/Effect/FlyItem/Egg.prefab
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_5.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_14.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_6.png
+- Assets/GameAssets/GameWindow/Img/5.png
+- Assets/GameAssets/GameWindow/Anim/Plane.controller
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_14.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/button-\u518D\u6765\u4E00\u5C40.png"
+- Assets/GameAssets/GameWindow/Img/Card/spade_5.png
+- Assets/GameAssets/GameWindow/Img/Card/diamond_6.png
+- Assets/GameAssets/GameWindow/Img/Card/club_3.png
+- Assets/GameAssets/GameWindow/Anim/FlowerAppear.anim
+- "Assets/GameAssets/GameWindow/Img/\u7FFB\u500Dx.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/heart_12.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_11.png
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/diamond_4.png
+- "Assets/GameAssets/GameWindow/Img/\u7FFB\u500D\u5E95\u677F.png"
+- "Assets/GameAssets/GameWindow/Img/\u91D1\u86CB\u53CA\u6635\u79F0.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_8.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/spade_2.png
+- Assets/GameAssets/GameWindow/Img/Card/heart_8.png
+- Assets/GameAssets/GameWindow/Prefab/Effect/Plane/Plane.prefab
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_4.png
+- Assets/GameAssets/GameWindow/Img/Card/spade_7.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/diamond_8.png
+- Assets/GameAssets/GameWindow/Anim/Rocket.controller
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/spade_11.png
+- Assets/GameAssets/GameWindow/Img/Card/club_10.png
+- "Assets/GameAssets/GameWindow/Img/Blast/\u7206\u70B8_BG.png"
+- Assets/GameAssets/GameWindow/Img/sign-buchu.png
+- "Assets/GameAssets/GameWindow/Img/RoundEnd/\u7FFB\u500D.png"
+- "Assets/GameAssets/GameWindow/Img/\u7ED3\u7B97\u7FFB\u500D\u5E95\u677F.png"
+- Assets/GameAssets/GameWindow/Img/CardLastChuPai/club_6.png
+- Assets/GameAssets/GameWindow/Img/button-CaptureScreen.png
+- Assets/GameAssets/GameWindow/Img/CardEndRound/club_11.png
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/vip
+- E:/IGDClient/Assets/StreamingAssets/race
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/player-figure
+- E:/IGDClient/Assets/StreamingAssets/currency
+- E:/IGDClient/Assets/StreamingAssets/host-info
+- E:/IGDClient/Assets/StreamingAssets/game-bg
+- E:/IGDClient/Assets/StreamingAssets/material
+- E:/IGDClient/Assets/StreamingAssets/sound
+- E:/IGDClient/Assets/StreamingAssets/commodity

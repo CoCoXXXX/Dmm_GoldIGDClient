@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3429356738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 278d115b5d8524cb408e3799e11d7071
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Sounds/chupai/f_K.mp3
+- Assets/GameAssets/Sounds/effect/get_gold.ogg
+- Assets/GameAssets/Sounds/chupai/f_sanliandui.mp3
+- Assets/GameAssets/Sounds/effect/endround_win.wav
+- Assets/GameAssets/Sounds/chupai/f_3.mp3
+- Assets/GameAssets/Sounds/chupai/m_tonghuashun.mp3
+- Assets/GameAssets/Sounds/effect/camera_shot.wav
+- Assets/GameAssets/Sounds/chupai/m_7.mp3
+- Assets/GameAssets/Sounds/effect/bomb_big.wav
+- Assets/GameAssets/Sounds/effect/endround_lose.wav
+- Assets/GameAssets/Sounds/chupai/f_zhadan.mp3
+- Assets/GameAssets/Sounds/effect/bomb_small.mp3
+- Assets/GameAssets/Sounds/chupai/m_6.mp3
+- Assets/GameAssets/Sounds/effect/chupai.ogg
+- Assets/GameAssets/Sounds/chupai/m_Q.mp3
+- Assets/GameAssets/Sounds/chupai/m_wangzha.mp3
+- Assets/GameAssets/Sounds/chupai/m_K.mp3
+- Assets/GameAssets/Sounds/chupai/m_10.mp3
+- Assets/GameAssets/Sounds/chupai/f_xw.mp3
+- Assets/GameAssets/Sounds/chupai/f_A.mp3
+- Assets/GameAssets/Sounds/chupai/m_8.mp3
+- Assets/GameAssets/Sounds/effect/buchu.wav
+- Assets/GameAssets/Sounds/effect/airplane.wav
+- Assets/GameAssets/Sounds/chupai/m_shunzi.mp3
+- Assets/GameAssets/Sounds/effect/gift_explode.wav
+- Assets/GameAssets/Sounds/chupai/m_3.mp3
+- Assets/GameAssets/Sounds/chupai/m_A.mp3
+- Assets/GameAssets/Sounds/flyItem/flower_hit.mp3
+- Assets/GameAssets/Sounds/chupai/m_sandaier.mp3
+- Assets/GameAssets/Sounds/chupai/f_Q.mp3
+- Assets/GameAssets/Sounds/chupai/f_10.mp3
+- Assets/GameAssets/Sounds/flyItem/egg_hit.mp3
+- Assets/GameAssets/Sounds/chupai/f_shunzi.mp3
+- Assets/GameAssets/Sounds/chupai/f_8.mp3
+- Assets/GameAssets/Sounds/effect/huojian.wav
+- Assets/GameAssets/Sounds/chupai/f_J.mp3
+- Assets/GameAssets/Sounds/chupai/f_5.mp3
+- Assets/GameAssets/Sounds/chupai/f_tonghuashun.mp3
+- Assets/GameAssets/Sounds/chupai/m_xw.mp3
+- Assets/GameAssets/Sounds/chupai/m_duizi.mp3
+- Assets/GameAssets/Sounds/flyItem/item_fly.mp3
+- Assets/GameAssets/Sounds/chupai/f_buchu.mp3
+- Assets/GameAssets/Sounds/chupai/f_dw.mp3
+- Assets/GameAssets/Sounds/effect/hurry_chupai_tick.wav
+- Assets/GameAssets/Sounds/effect/shuijing.mp3
+- Assets/GameAssets/Sounds/chupai/f_wangzha.mp3
+- Assets/GameAssets/Sounds/chupai/f_6.mp3
+- Assets/GameAssets/Sounds/chupai/f_sanzhang.mp3
+- Assets/GameAssets/Sounds/chupai/m_dw.mp3
+- Assets/GameAssets/Sounds/chupai/m_J.mp3
+- Assets/GameAssets/Sounds/effect/use_gold.wav
+- Assets/GameAssets/Sounds/chupai/m_feiji.mp3
+- Assets/GameAssets/Sounds/chupai/f_duizi.mp3
+- Assets/GameAssets/Sounds/effect/fapai.wav
+- Assets/GameAssets/Sounds/chupai/m_sanzhang.mp3
+- Assets/GameAssets/Sounds/chupai/f_4.mp3
+- Assets/GameAssets/Sounds/chupai/m_zhadan.mp3
+- Assets/GameAssets/Sounds/chupai/m_buchu.mp3
+- Assets/GameAssets/Sounds/effect/chat_bubble.wav
+- Assets/GameAssets/Sounds/chupai/f_feiji.mp3
+- Assets/GameAssets/Sounds/chupai/f_sandaier.mp3
+- Assets/GameAssets/Sounds/chupai/m_4.mp3
+- Assets/GameAssets/Sounds/bgm_huanqin.mp3
+- Assets/GameAssets/Sounds/chupai/m_9.mp3
+- Assets/GameAssets/Sounds/chupai/f_7.mp3
+- Assets/GameAssets/Sounds/chupai/m_sanliandui.mp3
+- Assets/GameAssets/Sounds/chupai/m_5.mp3
+- Assets/GameAssets/Sounds/effect/please_chupai_ding.wav
+- Assets/GameAssets/Sounds/chupai/f_9.mp3
+- Assets/GameAssets/Sounds/chupai/m_2.mp3
+- Assets/GameAssets/Sounds/effect/tonghuashun.mp3
+- Assets/GameAssets/Sounds/chupai/f_2.mp3
+Dependencies: []

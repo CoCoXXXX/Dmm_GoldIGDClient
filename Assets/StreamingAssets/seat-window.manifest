@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 663641621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6ca272ec9b0cabf892dbde450b7c44d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f1e05077508c6878da31e2d26da73f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51dffe13ba7c4b80a8879588ba1918e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa631a3aa1468a45ad1c0e2f1109d90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6532f907961a90f4ca9e3bc5469810f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bbf7e4794f0bd74480415725ba2aec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1da3c6eade0233346a97e5007b238977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfdfb89bc84ef81498b7ced125cb7b16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 301fe0fb47fa4aedb3486cfec000669e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4ad084c727ae1a4ab4f83d0a9ca0bbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 685a803d45e49fb4a9d7287e4f04d110, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86a3845eabb4df34a8b530bb69a8b52f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6759597ffd404d8f9dd7876d5f3796ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4adfecfa78e5644ba1f44becb3492b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/SeatWindow/Img/\u5357.png"
+- "Assets/GameAssets/SeatWindow/Img/\u623F\u95F4\u4FE1\u606F.png"
+- "Assets/GameAssets/SeatWindow/Img/VIP\u529F\u80FD.png"
+- "Assets/GameAssets/SeatWindow/Img/\u901A\u7528_\u6309\u94AE\u5C0F\u9EC4\u5E26\u82B1\u7EB9.png"
+- "Assets/GameAssets/SeatWindow/Img/\u9009\u5EA7\u623F\u56FE\u6807.png"
+- "Assets/GameAssets/SeatWindow/Img/\u73A9\u5BB6\u4FE1\u606F.png"
+- "Assets/GameAssets/SeatWindow/Img/\u897F.png"
+- "Assets/GameAssets/SeatWindow/Img/\u4E1C.png"
+- "Assets/GameAssets/SeatWindow/Img/\u5012\u8BA1\u65F6\u5E95\u677F.png"
+- "Assets/GameAssets/SeatWindow/Img/button_\u51C6\u5907.png"
+- "Assets/GameAssets/SeatWindow/Img/\u623F\u95F4\u4F4D\u7F6E.png"
+- "Assets/GameAssets/SeatWindow/Img/\u73A9\u5BB6\u4FE1\u606F\u5E95\u677F.png"
+- "Assets/GameAssets/SeatWindow/Img/button_\u81EA\u7531\u804A\u5929\u5E95\u677F.png"
+- "Assets/GameAssets/SeatWindow/Img/button_\u6362\u684C.png"
+- "Assets/GameAssets/SeatWindow/Img/\u73A9\u5BB6\u89D2\u6807.png"
+- Assets/GameAssets/SeatWindow/Prefab/TableBtn.prefab
+- "Assets/GameAssets/SeatWindow/Img/\u5317.png"
+- "Assets/GameAssets/SeatWindow/Img/button_\u51C6\u5907\u5E95\u677F.png"
+- Assets/GameAssets/SeatWindow/Prefab/SeatWindow.prefab
+- "Assets/GameAssets/SeatWindow/Img/\u961F\u4F0D\u6807\u8BC6_\u9EC4\u961F.png"
+- "Assets/GameAssets/SeatWindow/Img/\u961F\u4F0D\u6807\u8BC6_\u84DD\u961F.png"
+- "Assets/GameAssets/SeatWindow/Img/\u901A\u7528_\u5173\u95ED\u5C0F\u53F7\u6309\u94AE.png"
+- "Assets/GameAssets/SeatWindow/Img/button_\u81EA\u7531\u804A\u5929.png"
+- "Assets/GameAssets/SeatWindow/Img/\u5E95\u90E8\u5BFC\u822A\u680F03.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/portal-window
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/vip
+- E:/IGDClient/Assets/StreamingAssets/race
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/player-figure
+- E:/IGDClient/Assets/StreamingAssets/currency
+- E:/IGDClient/Assets/StreamingAssets/host-info
+- E:/IGDClient/Assets/StreamingAssets/material

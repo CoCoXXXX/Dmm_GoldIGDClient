@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 133656417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07a988a2762943e88e4f6695fbf1e597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/HostInfo/\u6BD4\u8D5B\u573A\u8BB0\u5206\u724C.png"
+- "Assets/GameAssets/HostInfo/\u6BD4\u5206\u724C\u4EAE\u70B9.png"
+- "Assets/GameAssets/HostInfo/\u56E2\u56E2\u8F6C\u8BB0\u5206\u724C.png"
+- "Assets/GameAssets/HostInfo/\u6BD4\u5206\u724C.png"
+Dependencies: []

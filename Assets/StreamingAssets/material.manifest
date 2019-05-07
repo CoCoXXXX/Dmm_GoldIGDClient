@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4021237809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 419673d559a5455db1d63b934f579a7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45f6267b097e3855805e37a81953b358
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Material/Flush.mat
+- Assets/GameAssets/Material/Paper.mat
+- Assets/GameAssets/Material/CircularImage.mat
+- Assets/GameAssets/Material/Flash.mat
+- Assets/GameAssets/Material/Plane.mat
+- Assets/GameAssets/Material/CircularImage.shader
+- Assets/GameAssets/Material/GoldEgg.mat
+- Assets/GameAssets/Material/MoneyBounce.physicsMaterial2D
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/game-window
+- E:/IGDClient/Assets/StreamingAssets/prepayment-pic

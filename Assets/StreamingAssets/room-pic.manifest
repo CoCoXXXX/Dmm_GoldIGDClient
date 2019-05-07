@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1383506528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe705ad545a2a719de9f068c2bc1b24e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/RoomPic/lianxichang.png
+- Assets/GameAssets/RoomPic/dashichang.png
+- Assets/GameAssets/RoomPic/ttzgaojichang.png
+- Assets/GameAssets/RoomPic/jinjiechang.png
+- Assets/GameAssets/RoomPic/chujichang.png
+- Assets/GameAssets/RoomPic/pengyouchang1.png
+- Assets/GameAssets/RoomPic/pengyouchang2.png
+- Assets/GameAssets/RoomPic/ttzchujichang.png
+- Assets/GameAssets/RoomPic/gaobeichang.png
+- Assets/GameAssets/RoomPic/dibeichang.png
+- Assets/GameAssets/RoomPic/jiabeichang.png
+- Assets/GameAssets/RoomPic/zhongjichang.png
+Dependencies: []

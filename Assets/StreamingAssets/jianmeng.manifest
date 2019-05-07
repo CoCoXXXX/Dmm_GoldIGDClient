@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3718943231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29e0cef2d25ba75a43a11351e884d1e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/JianMengPic/jm-qbnmx.png
+- Assets/GameAssets/JianMengPic/jm-znzth.png
+- Assets/GameAssets/JianMengPic/jm-ysnmd.png
+- Assets/GameAssets/JianMengPic/jm-lsxg.png
+- Assets/GameAssets/JianMengPic/jm-ycst.png
+- Assets/GameAssets/JianMengPic/jm-mdgd.png
+- Assets/GameAssets/JianMengPic/jm-mr.png
+- Assets/GameAssets/JianMengPic/jm-hlh.png
+- Assets/GameAssets/JianMengPic/jm-bz.png
+- Assets/GameAssets/JianMengPic/jm-qswg.png
+- Assets/GameAssets/JianMengPic/jm-ylmr.png
+- Assets/GameAssets/JianMengPic/jm-rzbk.png
+- Assets/GameAssets/JianMengPic/jm-yq.png
+Dependencies: []

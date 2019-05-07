@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2387784443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c2beefa36c0662455cd877dd06826d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 983e4bdbd0efa4cb28cb07810a7e28ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 263b053bd93be154bb61c7f6cf1ff5e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34e48f7edeaf62a4baf6f99d2b3ef04f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/TTZStartInfoDialog/TTZStartInfoDialog.prefab
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/game-window
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 395562218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb8684f1c85bc1e2cfe9df6e0f2fb576
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u79EF\u5206.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u5151\u6362\u5238.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u94F6\u7968.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u91D1\u86CB.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u5143\u5B9D.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u8BB0\u724C\u5668.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u8865\u7B7E\u5361.png"
+- "Assets/GameAssets/Currency/\u8D27\u5E01\u5355\u4F4D_\u9C9C\u82B1.png"
+Dependencies: []

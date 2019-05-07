@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3382685160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 934a74f686ceb366b7b715e6d23cf27d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bb4c37c915d5352389eeb93c1a3b27a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Font/LevelNumber/LevelNumber.mat
+- Assets/GameAssets/Font/Textured Text Shader.shader
+- "Assets/GameAssets/Font/\u7B80\u51C6\u5706.ttf"
+- Assets/GameAssets/Font/TitleFont/TitleFont.mat
+- Assets/GameAssets/Font/SeatFont/SeatFont.mat
+- Assets/GameAssets/Font/TitleFont/TitleFont.fontsettings
+- "Assets/GameAssets/Font/SeatFont/\u9009\u5EA7\u5B57\u4F53.png"
+- "Assets/GameAssets/Font/GameNumber/\u724C\u684C\u6570\u5B57.png"
+- "Assets/GameAssets/Font/\u7B80\u7C97\u5706.ttf"
+- Assets/GameAssets/Font/LevelNumber/LevelNumber.fontsettings
+- Assets/GameAssets/Font/SeatFont/SeatFont.fontsettings
+- Assets/GameAssets/Font/GameNumber/GameNumber.mat
+- "Assets/GameAssets/Font/TitleFont/\u901A\u7528\u6846\u5B57\u4F53.png"
+- Assets/GameAssets/Font/GameNumber/GameNumber.fontsettings
+- "Assets/GameAssets/Font/LevelNumber/\u7B49\u7EA7\u5C0F\u6570\u5B57.png"
+Dependencies: []

@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 1822413017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a55788e8ecabf200f18c4e6086dfca9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30686ed2e5725fa06a854dc010176d4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c4f69155c3bf2a4a928af22bb03c24a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ed344fa3d18e79479d26da67f3973f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efac07ad741cd9c4ea52c345a67e6009, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/HelpDialog/Img/\u9009\u9879\u536101.png"
+- "Assets/GameAssets/HelpDialog/Img/\u5206\u5272\u865A\u7EBF.png"
+- Assets/GameAssets/HelpDialog/Prefab/HistoryRecordItem.prefab
+- "Assets/GameAssets/HelpDialog/Img/\u63D0\u95EE.png"
+- "Assets/GameAssets/HelpDialog/Img/\u56DE\u7B54.png"
+- "Assets/GameAssets/HelpDialog/Img/\u5386\u53F2\u8BB0\u5F55.png"
+- "Assets/GameAssets/HelpDialog/Img/\u9009\u9879\u536102.png"
+- "Assets/GameAssets/HelpDialog/Img/\u53CD\u9988\u95EE\u9898.png"
+- Assets/GameAssets/HelpDialog/Prefab/HelpDialog.prefab
+- "Assets/GameAssets/HelpDialog/Img/\u5173\u4E8E\u6211\u4EEC.png"
+- "Assets/GameAssets/HelpDialog/Img/\u9009\u9879\u70B9.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font

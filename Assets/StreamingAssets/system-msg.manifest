@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1321231092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d14b8dac1c6db3933b44fd55c66ea57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 206f8579373bce185590a89452f75205
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/SystemMsg/Prefab/SystemTextItem.prefab
+- "Assets/GameAssets/SystemMsg/Img/\u6E38\u6EDA\u680F.png"
+- "Assets/GameAssets/SystemMsg/Img/\u6E38\u6EDA\u5587\u53ED.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/font

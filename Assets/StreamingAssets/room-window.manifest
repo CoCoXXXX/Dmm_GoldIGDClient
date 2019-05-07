@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 3984242806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c625a4de58c4a74ba0b76195b7b74f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02bf34f69a511e45a9d4230f4c7bd77d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31f8b8b03f0485e46b7b324d822bfcd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cc65c513fbe94940a3dd4a980be3563, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc427c162a224484a1f5fae1e67c8e8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 301fe0fb47fa4aedb3486cfec000669e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/RoomWindow/Img/\u623F\u95F4\u56FE\u6807.png"
+- "Assets/GameAssets/RoomWindow/Img/\u623F\u95F4\u4FE1\u606F.png"
+- "Assets/GameAssets/RoomWindow/Img/\u623F\u95F4\u89D2\u6807.png"
+- Assets/GameAssets/RoomWindow/Prefab/RoomWindow.prefab
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/portal-window
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/race
+- E:/IGDClient/Assets/StreamingAssets/seat-window
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/currency
+- E:/IGDClient/Assets/StreamingAssets/material

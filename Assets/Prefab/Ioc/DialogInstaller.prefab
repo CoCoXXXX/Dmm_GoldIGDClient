@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &154574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 454574}
+  - component: {fileID: 11454574}
+  m_Layer: 0
+  m_Name: DialogInstaller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &454574
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154574}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11454574
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a90ead12bc4e29544b3d3179ebf8bf3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DialogManagerPrefab: {fileID: 11410016, guid: 7f903eb4c36ca954aab175e6f4802b9c,
+    type: 2}
+  CheckinConditionItemPrefab: {fileID: 11429898, guid: 29a7703979aedf44d842c783f384f8cd,
+    type: 2}
+  WeChatAdsItemPrefab: {fileID: 11464724, guid: 53d6d022d344d9242a6df2ac6200186a,
+    type: 2}
+  ExchangeItemPrefab: {fileID: 11464552, guid: d28351541b4f6354f82565dc168cf840, type: 2}
+  CommodityItemPrefab: {fileID: 11461332, guid: a78ca6b91cd7e3b4ab7dcbb846d6ebb6,
+    type: 2}
+  PrepaymentItemPrefab: {fileID: 11432446, guid: 8beac3f466738e54bafd421f3db9cdf2,
+    type: 2}
+  VipItemPrefab: {fileID: 11417024, guid: e503421c819947d4393619e9a325317f, type: 2}
+  YuanBaoItemPrefab: {fileID: 114000011236739676, guid: 2bc9c7ba4d349244aa59d369ab8ebc6d,
+    type: 2}
+  RaceItemPrefab: {fileID: 114729538886500458, guid: 440e39f45f93dd24aa9cc52b8fd3250f,
+    type: 2}
+  RaceHistoryRankItemPrefab: {fileID: 114238674987054640, guid: 611768a8fdda9ac41be6c7f11677cb2f,
+    type: 2}
+  DisplayRankItemPrefab: {fileID: 114933748995137386, guid: d5c310d32e1895b4ab15bb7a0cb3b27e,
+    type: 2}
+  HistoryRecordItemPrefab: {fileID: 114454214539081200, guid: 2a9ccf95c24de3e44a683f99d08009b1,
+    type: 2}
+  CurrencyValuePrefab: {fileID: 11439514, guid: 510b9217c04666548bdb59af2222ad35,
+    type: 2}
+  JianMengItemPrefab: {fileID: 11487360, guid: 95b7693a2bae99548969c486c01e8f90, type: 2}
+  ChatBubblePrefab: {fileID: 11499396, guid: ae15db017ded48345b78926e1a20d8fd, type: 2}
+  YuanBaoExchangeItemPrefab: {fileID: 114000013092606938, guid: fed4942badfb8e04f937a30667741d62,
+    type: 2}
+  UserTaskItemPrefab: {fileID: 114280798675385214, guid: e0b37724d8207cb40b34d39c8b5b872f,
+    type: 2}
+  TaskItemPrefab: {fileID: 114584969178035832, guid: c6643e545fec12741b7e8c8c28a363b3,
+    type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 154574}
+  m_IsPrefabParent: 1

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1223126ce0d204d7db09d062a2ce0525, type: 3}
+  m_Name: ttigd
+  m_EditorClassIdentifier: 
+  ProductName: ttigd
+  DisplayName: "\u5929\u5929\u7231\u63BC\u86CB"
+  AppId: 1278792634
+  WxAppId: wxd7dfb81088f364f1
+  AndroidUmAppKey: 59bb40014544cb7e4000000f
+  IOSUmAppKey: 599e41a3f5ade45083000983
+  EntitlementFile: ttigd.entitlements
+  KeyChainGroup: LFHM7DN793.com.diamondcat.ttigd
+  UniversalLinks:
+  - applinks:www.iguandan.cn
+  - applinks:share.iguandan.cn
+  AnySDKAppKey: E1CE1D5F-A80B-174B-B9D9-811F4FC9986A
+  AnySDKAppSecret: ff2b242d2a15f0699db726b12c535748
+  AnySDKPrivateKey: 414773D8C281EAE5BAF50C2CDCEB9AB9
+  OauthLoginServer: http://oauth.anysdk.com/api/OauthLoginDemo/Login.php
+  RealNameUrl: http://api.iguandan360.com/realinfo-service/submitInfo?
+  IssueSubmitUrl: http://api.iguandan360.com/issue/submit_issue?
+  IssueHistoryUrl: http://api.iguandan360.com/issue/my_issues?
+  ReportUrl: http://api.iguandan360.com/bad-player/report?
+  RaceDescriptionUrl: http://api.iguandan360.com/race-service/getInfo?
+  RaceHistoryRankUrl: http://api.iguandan360.com/race-service/getHistoryInfo?
+  TestRealNameUrl: http://114.55.30.148:18080/realinfo-service/submitInfo?
+  TestIssueSubmitUrl: http://114.55.30.148:18080/issue-service/issue/submit_issue?
+  TestIssueHistoryUrl: http://114.55.30.148:18080/issue-service/issue/my_issues?
+  TestReportUrl: http://114.55.30.148:18080/bad-player/report?
+  TestRaceDescriptionUrl: http://api.iguandan360.com/race-service/getInfo?
+  TestRaceHistoryRankUrl: http://api.iguandan360.com/race-service/getHistoryInfo?

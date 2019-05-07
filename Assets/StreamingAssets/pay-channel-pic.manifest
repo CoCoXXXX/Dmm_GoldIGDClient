@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2269941767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a481ad41b95cb13bba4b973e7549b4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/PayChannelPic/\u5FAE\u4FE1\u652F\u4ED8.png"
+- "Assets/GameAssets/PayChannelPic/\u652F\u4ED8\u5B9D\u652F\u4ED8.png"
+- "Assets/GameAssets/PayChannelPic/\u5176\u4ED6\u652F\u4ED8.png"
+- "Assets/GameAssets/PayChannelPic/\u5C0F\u7C73\u652F\u4ED8.png"
+- "Assets/GameAssets/PayChannelPic/\u82F9\u679C\u652F\u4ED8.png"
+Dependencies: []

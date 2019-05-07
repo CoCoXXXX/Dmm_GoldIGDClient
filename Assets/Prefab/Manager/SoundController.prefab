@@ -1,0 +1,346 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &158976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 458976}
+  - component: {fileID: 8258976}
+  m_Layer: 0
+  m_Name: Effect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &158978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 458978}
+  - component: {fileID: 11458976}
+  m_Layer: 0
+  m_Name: SoundController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &158980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 458980}
+  - component: {fileID: 8258978}
+  m_Layer: 0
+  m_Name: BGM
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &458976
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158976}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 458978}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &458978
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158978}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 458976}
+  - {fileID: 458980}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &458980
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158980}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 458978}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &8258976
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158976}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!82 &8258978
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158980}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &11458976
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7cf33be945e91409bac3b4ff8670b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BgmPlayer: {fileID: 8258978}
+  Bgm: {fileID: 8300000, guid: 1405e74ffe85c454abed51c88d0ac5a6, type: 3}
+  FadeTime: 3
+  EffectPlayer: {fileID: 8258976}
+  EndRoundWin: {fileID: 8300000, guid: 5b14dfd10f932f94e886cfdf83ca1d1b, type: 3}
+  EndRoundLose: {fileID: 8300000, guid: 2f11daa217188f24bafd5ad9f06cde25, type: 3}
+  BuChu: {fileID: 8300000, guid: a3e05a354ab9d4347a5384d2366acc36, type: 3}
+  ChuPai: {fileID: 8300000, guid: 3ec898235f6ac074bb9a227c77710319, type: 3}
+  FaPai: {fileID: 8300000, guid: 041fcbfc8b517de49821cba9d8c5a569, type: 3}
+  HurryChuPaiTick: {fileID: 8300000, guid: 0ebf71aaa9394784892b7a1bcc84fd62, type: 3}
+  PleaseChuPai: {fileID: 8300000, guid: ba0333cff62da5a469a011f4ad534b17, type: 3}
+  CameraShot: {fileID: 8300000, guid: 606dd92279d9853439d7ac34a991274b, type: 3}
+  ChatBubble: {fileID: 8300000, guid: f30744fdbc7ac9c4fb226063e2c91440, type: 3}
+  GiftPackExplode: {fileID: 8300000, guid: 182318f5f21518543a65ea4dc12c0f68, type: 3}
+  GetGold: {fileID: 8300000, guid: 1b226c715811aa34c859c81a5932f750, type: 3}
+  UseGold: {fileID: 8300000, guid: a0ac63cb091d89d44bb5bae20c0d619d, type: 3}
+  GoldDing: {fileID: 8300000, guid: 64526afafbab3b74e8a009f2f651816e, type: 3}
+  EffectInterval: 0.01
+  Female2: {fileID: 8300000, guid: e78f3aff06db5a344af3150a3d961b11, type: 3}
+  Female3: {fileID: 8300000, guid: f8d019e12c495ed4c854ef0a64c7f18f, type: 3}
+  Female4: {fileID: 8300000, guid: 5d2c5d7dc94390a4b881ce331f441221, type: 3}
+  Female5: {fileID: 8300000, guid: 171d6e880f464c6499721a894145c898, type: 3}
+  Female6: {fileID: 8300000, guid: 3da7f33bf9edcd249946db36e7e8ecd7, type: 3}
+  Female7: {fileID: 8300000, guid: 42359e7f7ed604543917bd741ff0b1a8, type: 3}
+  Female8: {fileID: 8300000, guid: 2a39afe74624f5a498e78c751a8264a7, type: 3}
+  Female9: {fileID: 8300000, guid: dc679adf0d2f9bf43b7974f2fc3e85f7, type: 3}
+  Female10: {fileID: 8300000, guid: ea1cd3b7a42f4274080d52ea66b26c34, type: 3}
+  FemaleJ: {fileID: 8300000, guid: fb33ac68a31f1d04a98a81a7e2344f69, type: 3}
+  FemaleQ: {fileID: 8300000, guid: 3fec10a7c9d38fb42af25fd1d511d8f5, type: 3}
+  FemaleK: {fileID: 8300000, guid: b599f8612a4dcf741994de031a4b9076, type: 3}
+  FemaleA: {fileID: 8300000, guid: bab511c40d69e6a4d80541fa57e6e0ea, type: 3}
+  FemaleWX: {fileID: 8300000, guid: fc9f1f54d4629aa4ead47f951d078646, type: 3}
+  FemaleWD: {fileID: 8300000, guid: 75d7b13a72c6c8d46a5a51788dc5c26b, type: 3}
+  FemaleBuChu: {fileID: 8300000, guid: 359c313ae838bfe40ada47dc8ea3d4d5, type: 3}
+  FemaleDuiZi: {fileID: 8300000, guid: c586bc9ce41de3340a3be37e4c721431, type: 3}
+  FemaleSanDaiEr: {fileID: 8300000, guid: b422617e43ccf2e44b575ea8fcd0de79, type: 3}
+  FemaleSanLianDui: {fileID: 8300000, guid: 60d8d6a16cb4bb142a6ab642d26ac240, type: 3}
+  FemaleSanZhang: {fileID: 8300000, guid: 3070f14b29ac59f4793a1e3439976d5f, type: 3}
+  FemaleShunZi: {fileID: 8300000, guid: b75b05e70754b6348ac50abee068c446, type: 3}
+  FemaleFeiJi: {fileID: 8300000, guid: e58a3c3ec92dc4b5d8adc5d810c610d5, type: 3}
+  FemaleZhaDan: {fileID: 8300000, guid: 808d87f2800c641979e804d390d84ed7, type: 3}
+  FemaleTongHuaShun: {fileID: 8300000, guid: 746484b8601d442d08ece4b71ef76b03, type: 3}
+  FemaleWangZha: {fileID: 8300000, guid: c193462bc61e64aaa8f67262907b7ce0, type: 3}
+  Male2: {fileID: 8300000, guid: 1d91c0ef0254be34b9b62bde2f139d00, type: 3}
+  Male3: {fileID: 8300000, guid: a30b9646417afc54284b48e5f850bd76, type: 3}
+  Male4: {fileID: 8300000, guid: 86dac92f52bb0f644bbd84c7ea5e5201, type: 3}
+  Male5: {fileID: 8300000, guid: e33267bf3155b2447895dcd643267d10, type: 3}
+  Male6: {fileID: 8300000, guid: bcac3e036f11adb4ea45bcba2aae5fa2, type: 3}
+  Male7: {fileID: 8300000, guid: 49959472b596a01499ab427c274c57dd, type: 3}
+  Male8: {fileID: 8300000, guid: b61d5fe4baeedcc4fb3a6d5f3550412d, type: 3}
+  Male9: {fileID: 8300000, guid: 43d5c46f0f3d0734d8073ffab4eab99b, type: 3}
+  Male10: {fileID: 8300000, guid: a5f6e444f0fb16f438dacc925448ab39, type: 3}
+  MaleJ: {fileID: 8300000, guid: 9b57b49b61f27d7439dc6e7346728ce9, type: 3}
+  MaleQ: {fileID: 8300000, guid: f1403633347394f488c7cbaa3c21fb29, type: 3}
+  MaleK: {fileID: 8300000, guid: 2c2fb334693b6364a9a40cd04268eeb3, type: 3}
+  MaleA: {fileID: 8300000, guid: 75c5c58639f05df468dbfbd2b1c9395f, type: 3}
+  MaleWX: {fileID: 8300000, guid: 89b4a2490908e674c81ef9ee397835ff, type: 3}
+  MaleWD: {fileID: 8300000, guid: 0960907b9c9a03146bddeb5a541ecc96, type: 3}
+  MaleBuChu: {fileID: 8300000, guid: 1cfac6ad5150a7040abaf3bba533678c, type: 3}
+  MaleDuiZi: {fileID: 8300000, guid: 203542b95e7a17f4d81031c85678d3de, type: 3}
+  MaleSanDaiEr: {fileID: 8300000, guid: 92b498175435e694fb7f8a66c3441c29, type: 3}
+  MaleSanLianDui: {fileID: 8300000, guid: 353756bf507230447ba1da8f9c0febc1, type: 3}
+  MaleSanZhang: {fileID: 8300000, guid: 3ba0843d22fe703478f1f939d4d33d15, type: 3}
+  MaleShunZi: {fileID: 8300000, guid: e735a2e5e14796840ae894b4a24aa255, type: 3}
+  MaleFeiJi: {fileID: 8300000, guid: 9d4acccb138af40c89cc6aadc0ebffa4, type: 3}
+  MaleZhaDan: {fileID: 8300000, guid: 3eaa8e8da7d84481fbef6169314606bf, type: 3}
+  MaleTongHuaShun: {fileID: 8300000, guid: 098c96129ccbc49beb4090eda3f97661, type: 3}
+  MaleWangZha: {fileID: 8300000, guid: 85308ff3963634f6b9902ef4eca72a35, type: 3}
+  Airplane: {fileID: 8300000, guid: 7fc57355a5307b84fbd81af23725a7df, type: 3}
+  HuoJian: {fileID: 8300000, guid: 17664b68eb295fb4485a35dd2b05f903, type: 3}
+  TongHuaShun: {fileID: 8300000, guid: db96b4ef4a7d726459c1ede76e237d02, type: 3}
+  BombSmall: {fileID: 8300000, guid: 4425110375ee3b5428414fa8e404560c, type: 3}
+  BombBig: {fileID: 8300000, guid: 5954179238fd14649894f9aa72bc8517, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 158978}
+  m_IsPrefabParent: 1

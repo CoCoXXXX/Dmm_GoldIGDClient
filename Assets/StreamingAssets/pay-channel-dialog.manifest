@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 4051697409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a82e0085e857de2093ace27accf8c5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b60572ec91a8d933b7557afd0ef0364
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f20f53c4fcfdf4e428b13704760a3e1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8265db5cc0fef54684a4a310efd929a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fc8c30b351312b47a14678c87bea5c7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/PayChannelPannel/Prefab/PayChannelPanel.prefab
+- "Assets/GameAssets/PayChannelPannel/Img/button-\u652F\u4ED8\u65B9\u5F0F.png"
+- Assets/GameAssets/PayChannelPannel/Prefab/PayChannelItem.prefab
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font
+- E:/IGDClient/Assets/StreamingAssets/pay-channel-pic

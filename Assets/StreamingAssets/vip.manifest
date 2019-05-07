@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1683920328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35ca19bdb21e1f627a8e86891707574d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/VIP/[vip3].png
+- Assets/GameAssets/VIP/[vip1].png
+- Assets/GameAssets/VIP/[vip4].png
+- Assets/GameAssets/VIP/[vip5].png
+- Assets/GameAssets/VIP/[vip2].png
+Dependencies: []

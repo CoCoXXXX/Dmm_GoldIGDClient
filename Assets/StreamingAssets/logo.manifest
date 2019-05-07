@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2369888014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb9e94fd9d56f64071b98bfb1d32d7d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameAssets/Logo/\u89D2\u827201.png"
+- "Assets/GameAssets/Logo/\u89D2\u827204.png"
+- "Assets/GameAssets/Logo/\u5B9D\u7BB1.png"
+- "Assets/GameAssets/Logo/\u89D2\u827203.png"
+Dependencies: []

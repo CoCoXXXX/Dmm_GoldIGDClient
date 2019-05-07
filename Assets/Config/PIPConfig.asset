@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b538b4ce20a4a74a9756086ee7953e3, type: 3}
+  m_Name: PIPConfig
+  m_EditorClassIdentifier: 
+  DefaultHost: 118.31.236.27
+  DefaultPort: 11112
+  Timeout1: 2
+  Timeout2: 3
+  PIPRetryCount: 1
+  PIPList:
+  - https://ttigd-east.oss-cn-hangzhou.aliyuncs.com
+  - https://ttigd-north.oss-cn-qingdao.aliyuncs.com
+  - https://ttigd-usa.oss-us-west-1.aliyuncs.com
+  - http://www.igdpro.com
+  Test: 0
+  TestHost: localhost
+  TestPort: 11112

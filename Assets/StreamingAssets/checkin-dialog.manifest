@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 4159713088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29bb1db5ad1ea7ae5d573d35b4edbbd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c60d4c7bfe4afce1b8fae302a8f9b7eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8fc614196b0cbd4e8fd6d8743ae8b2e, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0b1d9d8c71a46b44be0d660a82e98f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90e8279a7717dc04d965c3b84fbde0f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059204db312a1214bbcf5eb0be25d2e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90a429d2dc930c41b0ee7e17c12dc99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31984c5fa8b30df48b12bb4ccb55cc80, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/CheckinDialog/Img/pkg_ge.png
+- Assets/GameAssets/CheckinDialog/Img/pkg_box_with_vip.png
+- Assets/GameAssets/CheckinDialog/Img/pkg_box.png
+- "Assets/GameAssets/CheckinDialog/Img/\u5DF2\u9886\u53D6.png"
+- Assets/GameAssets/CheckinDialog/Prefab/CheckInDialog.prefab
+- "Assets/GameAssets/CheckinDialog/Img/button_\u7B7E\u5230.png"
+- Assets/GameAssets/CheckinDialog/Img/pkg_ge_bag.png
+- "Assets/GameAssets/CheckinDialog/Img/\u7B7E\u5230\u8BF4\u660E\u5E95\u6846.png"
+- "Assets/GameAssets/CheckinDialog/Img/\u65E5\u671F\u5DF2\u7B7E\u5230.png"
+- Assets/GameAssets/CheckinDialog/Prefab/AwardItem.prefab
+- "Assets/GameAssets/CheckinDialog/Img/title_\u7B7E\u5230.png"
+- Assets/GameAssets/CheckinDialog/Prefab/DayItem.prefab
+- Assets/GameAssets/CheckinDialog/Prefab/ConditionItem.prefab
+- "Assets/GameAssets/CheckinDialog/Img/\u65E5\u5386\u5E95\u6846.png"
+- "Assets/GameAssets/CheckinDialog/Img/button_\u7B7E\u5230\u89C4\u5219.png"
+- "Assets/GameAssets/CheckinDialog/Img/button_\u8865\u7B7E.png"
+- "Assets/GameAssets/CheckinDialog/Img/\u4ECA\u5929.png"
+Dependencies:
+- E:/IGDClient/Assets/StreamingAssets/widget
+- E:/IGDClient/Assets/StreamingAssets/font
